@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><executequery-connections><connection-folders>
+
+</connection-folders><savedconnections>
+       
+    <connection storecontainerpassword="false" storepassword="true" use_new_api="false" verify_server="false">
+              
+        <id>5d672a40-6c85-4cd3-aa05-96936809339e</id>
+              
+        <name>Bookkeeping</name>
+              
+        <user>sysdba</user>
+              
+        <password encrypted="false">sysdba</password>
+              
+        <container_password encrypted="false"/>
+              
+        <host>localhost</host>
+              
+        <datasource>Bookkeeping</datasource>
+              
+        <port>3050</port>
+              
+        <charset>NONE</charset>
+              
+        <role/>
+              
+        <server_version>3</server_version>
+              
+        <minor_server_version>0</minor_server_version>
+              
+        <certificate/>
+              
+        <authmethod>Базовая</authmethod>
+              
+        <connectionmethod>Стандартно</connectionmethod>
+              
+        <url/>
+              
+        <drivername>Jaybird 4 Driver</drivername>
+              
+        <driverid>2222222</driverid>
+              
+        <folderid/>
+              
+        <autocommit>true</autocommit>
+              
+        <txisolation>-1</txisolation>
+              
+        <sshtunnel>false</sshtunnel>
+              
+        <sshusername/>
+              
+        <sshstorepassword>false</sshstorepassword>
+              
+        <sshhost/>
+              
+        <sshport>22</sshport>
+              
+        <namestouppercase>true</namestouppercase>
+              
+        <pathtotraceconfig/>
+              
+        <advanced>
+                     
+            <property key="process_id" value="16768"/>
+                     
+            <property key="process_name" value="C:\Program Files\RedExpert\bin\RedExpert64.exe"/>
+                     
+            <property key="lc_ctype" value="NONE"/>
+                  
+        </advanced>
+           
+    </connection>
+    
+</savedconnections></executequery-connections>
